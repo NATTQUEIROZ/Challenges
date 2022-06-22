@@ -1,4 +1,14 @@
 /*
+Esta é uma escada de tamanho n = 4:
+   #
+  ##
+ ###
+####
+Sua base e altura são iguais a n. É desenhado usando # símbolos e espaços. 
+A última linha não é precedida por nenhum espaço.
+Escreva um programa que imprima uma escada de tamanho n.
+Nota : A última linha deve ter 0 espaços.
+PASSO A PASSO
 passo 0 - receber input (n), onde 0 < n <= 100
 passo 1 - contruir (n) linhas
 passo 2 - atualizar contador para contruir as colunas com (n) #
